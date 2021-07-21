@@ -42,3 +42,11 @@ body{
     padding-top: 15px;
     letter-spacing: .3px;
 }
+
+.sub-title{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 15px;
+    padding-top: 2px;
+    letter-spacing: 3px;
+}
