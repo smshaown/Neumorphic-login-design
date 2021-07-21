@@ -16,6 +16,19 @@ body{
     height: 500px;
     background-color: #ecf0f3;
     border-radius: 30px;
+    padding: 50px 35px 35px 35px;
     box-shadow: 10px 10px 15px #cbced1,
-                -10px -10px 15px white;
+                -10px -10px 15px white;   /* inset */
+}
+
+.logo{
+    background-image: url("img1.jpg");
+    width: 80px;
+    height: 80px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 6px 6px 12px #a7aaaf,
+                -6px -6px 12px white;
 }
